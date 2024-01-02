@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SciAstraChatBot/precache-manifest.da1250c6e4fc1a92b06b9132e359fe68.js"
+  "/SciAstraChatBot/precache-manifest.2feddfcd779e994f503ebff7d91b0adc.js"
 );
 
 self.addEventListener('message', (event) => {

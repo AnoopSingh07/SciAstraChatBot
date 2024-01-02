@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SciAstraChatBot/static/css/main.1a2391f7.chunk.css",
-    "main.js": "/SciAstraChatBot/static/js/main.0710a757.chunk.js",
-    "main.js.map": "/SciAstraChatBot/static/js/main.0710a757.chunk.js.map",
+    "main.css": "/SciAstraChatBot/static/css/main.930e79b2.chunk.css",
+    "main.js": "/SciAstraChatBot/static/js/main.3e79cd39.chunk.js",
+    "main.js.map": "/SciAstraChatBot/static/js/main.3e79cd39.chunk.js.map",
     "runtime~main.js": "/SciAstraChatBot/static/js/runtime~main.020cffcf.js",
     "runtime~main.js.map": "/SciAstraChatBot/static/js/runtime~main.020cffcf.js.map",
     "static/js/2.0330136a.chunk.js": "/SciAstraChatBot/static/js/2.0330136a.chunk.js",
@@ -10,9 +10,8 @@
     "static/js/3.44b60ca4.chunk.js": "/SciAstraChatBot/static/js/3.44b60ca4.chunk.js",
     "static/js/3.44b60ca4.chunk.js.map": "/SciAstraChatBot/static/js/3.44b60ca4.chunk.js.map",
     "index.html": "/SciAstraChatBot/index.html",
-    "precache-manifest.da1250c6e4fc1a92b06b9132e359fe68.js": "/SciAstraChatBot/precache-manifest.da1250c6e4fc1a92b06b9132e359fe68.js",
+    "precache-manifest.2feddfcd779e994f503ebff7d91b0adc.js": "/SciAstraChatBot/precache-manifest.2feddfcd779e994f503ebff7d91b0adc.js",
     "service-worker.js": "/SciAstraChatBot/service-worker.js",
-    "static/css/main.1a2391f7.chunk.css.map": "/SciAstraChatBot/static/css/main.1a2391f7.chunk.css.map",
-    "static/media/chatbot-logo.png": "/SciAstraChatBot/static/media/chatbot-logo.c8624b5e.png"
+    "static/css/main.930e79b2.chunk.css.map": "/SciAstraChatBot/static/css/main.930e79b2.chunk.css.map"
   }
 }

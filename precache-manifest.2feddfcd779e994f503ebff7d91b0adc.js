@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad66aa349fd81a43012635b4da86a538",
+    "revision": "cc8f92c4bf8c9ea9e416a10d5a8f2a65",
     "url": "/SciAstraChatBot/index.html"
   },
   {
-    "revision": "da847d9fdbdfbb5845a5",
-    "url": "/SciAstraChatBot/static/css/main.1a2391f7.chunk.css"
+    "revision": "eff16f4e77fe26aad393",
+    "url": "/SciAstraChatBot/static/css/main.930e79b2.chunk.css"
   },
   {
     "revision": "bcd88c52d2f4a849ab82",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SciAstraChatBot/static/js/3.44b60ca4.chunk.js"
   },
   {
-    "revision": "da847d9fdbdfbb5845a5",
-    "url": "/SciAstraChatBot/static/js/main.0710a757.chunk.js"
+    "revision": "eff16f4e77fe26aad393",
+    "url": "/SciAstraChatBot/static/js/main.3e79cd39.chunk.js"
   },
   {
     "revision": "3800877f78d76a14e9ec",
     "url": "/SciAstraChatBot/static/js/runtime~main.020cffcf.js"
-  },
-  {
-    "revision": "c8624b5eaeae7c87111eac372c1e8309",
-    "url": "/SciAstraChatBot/static/media/chatbot-logo.c8624b5e.png"
   }
 ]);
