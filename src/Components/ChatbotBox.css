@@ -1,0 +1,88 @@
+/* Bot and Close Icon Styles */
+.chat-icon {
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .chat-icon.bot {
+    transform: rotate(0deg);
+  }
+  
+  .chat-icon.close {
+    transform: rotate(45deg);
+  }
+  
+  /* Hide chat icon when chat is open */
+  .chat-icon.hidden {
+    display: none;
+  }
+  /* .chatbot-container.open.close-icon{
+    position: relative;
+    right: 4px;
+    top: 4px;
+  } */
+  .close-icon-img {
+    cursor: pointer;
+    height: 100%;
+    position: relative;
+    top: 9px;
+    right: 12px;
+    z-index: +1;
+}
+  
+  /* Chat Container Styles */
+  .chatbot-container {
+    /* position: fixed;
+    bottom: 20px;
+    right: 20px; */
+    display: flex;
+    flex-direction: row;
+    position:relative;
+    right: auto;
+    bottom: auto;
+    transition: right 0.3s;
+    height: 90%;
+  }
+  
+  .chat-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 20vw;
+    background-color: transparent;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+  }
+  
+  .chat-header {
+    background-color: transparent;
+    padding-right: 8px;
+    text-align: right;
+  }
+  
+  .chat-content {
+    padding: 10px;
+  }
+  
+  .close-icon {
+    height: 30px;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .chat-container {
+      width: 100vw;
+    }
+}
+
+/* Media query for screens with a minimum width of 601px and a maximum width of 1200px */
+@media only screen and (min-width: 801px) and (max-width: 1500px) {
+  .chat-container {
+    width: 50vw;
+  }
+}
+
+/* Media query for screens with a minimum width of 1201px */
+/* @media only screen and (min-width: 1500px) {
+
+} */
