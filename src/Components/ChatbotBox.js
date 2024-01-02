@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './ChatbotBox.css';
 import ChatContainer from './ChatContainer';
-import ChatbotLogo from '../Assets/chatbot-logo.png';
+import ChatbotLogo from '../Assets/robot-line-icon.png';
 import CloseIcon from '../Assets/close-icon.jpg';
 
 const ChatbotBox = () => {
